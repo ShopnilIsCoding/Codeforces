@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
- 
     int t;
     cin>>t;
     while (t--)
@@ -19,8 +18,6 @@ int main()
            if(c>=(a.size()-c))
            cout<<"A"<<endl;
            else
-           cout<<"B"<<endl;
-           
-    }
-    
+           cout<<"B"<<endl;        
+    }  
 }
